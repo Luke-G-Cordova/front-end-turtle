@@ -1,0 +1,19 @@
+{
+  "name": "turtle.js",
+  "version": "1.0.0",
+  "description": "Lightweight package for drawing turtles on some context. Designed for HTML Canvas 2d contexts and includes functions that support it howeuld be able to support other 2d contexts as well.",
+  "main": "Turtle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Luke-G-Cordova/turtle.js.git"
+  },
+  "author": "Luke Cordova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luke-G-Cordova/turtle.js/issues"
+  },
+  "homepage": "https://github.com/Luke-G-Cordova/turtle.js#readme"
+}
