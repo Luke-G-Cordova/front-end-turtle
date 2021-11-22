@@ -1,8 +1,5 @@
 
-
-
-
-export default class Turtle{
+class Turtle{
     constructor(options){
         this.x = 0;
         this.y = 0;
